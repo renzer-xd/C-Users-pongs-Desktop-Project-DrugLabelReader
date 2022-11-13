@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="BG">
+    <file>bg_led.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>logo_school.png</file>
+  </qresource>
+  <qresource prefix="Drug">
+    <file>Drug/paracetamol.png</file>
+  </qresource>
+</RCC>
